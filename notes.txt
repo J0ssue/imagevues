@@ -1,0 +1,7 @@
+VUE ROUTER CONFIG:
+
+1 --> Create Vue Router instance, tell it about the routes that exist in our app.
+
+2 --> Tell our Vue instance that the Routeer exists.
+
+3 --> Tell Vue Router where to put a component when it matches a route.
